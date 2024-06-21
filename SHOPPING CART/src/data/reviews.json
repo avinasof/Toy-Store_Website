@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Алина",
+        "comment": "Отличный магазин! Покупаю не впервые",
+        "date": "2024-06-14",
+        "imgUrl": "/images/people1.png"
+    },
+    {
+        "name": "Мария",
+        "comment": "Очень довольна покупкой.",
+        "date": "2024-06-13",
+        "imgUrl": "/images/people2.png"
+    },
+    {
+        "name": "Иван",
+        "comment": "Быстрая доставка и хорошие цены.",
+        "date": "2024-06-12",
+        "imgUrl": "/images/people3.png"
+    }
+]
